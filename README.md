@@ -1,2 +1,3 @@
 # dewdrop-py
-i am a tutor for python 
+i am studying a lot
+some dance to remember some dance to forget - eagles
